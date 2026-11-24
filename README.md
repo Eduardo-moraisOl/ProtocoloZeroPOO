@@ -62,7 +62,7 @@ Certifique-se de ter o Python instalado na sua máquina.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/protocolo-zero.git
+   git clone https://github.com/rodolfozion1719/protocolo-zero.git
    cd protocolo-zero
    ```
 
