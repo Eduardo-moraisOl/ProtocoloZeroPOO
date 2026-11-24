@@ -25,10 +25,12 @@ Protótipo de jogo 2D desenvolvido em Python com a biblioteca Pygame para a disc
 
 ## 👥 Equipe de Desenvolvimento
 
-
-[@pedro-rfm](https://github.com/pedro-rfm) |
-[@lucasvianagusmao](https://github.com/lucasvianagusmao) |
-[@rodolfozion1719](https://github.com/rodolfozion1719) |
+| Integrante | GitHub |
+| :--- | :--- |
+| Rodolfo Zion Ruthes Brito | [@rodolfozion1719](https://github.com/rodolfozion1719) |
+| Pedro Ricardo Moreira | [@pedro-rfm](https://github.com/pedro-rfm) |
+| Lucas Viana Gusmão| [@lucasvianagusmao](https://github.com/lucasvianagusmao) |
+| Eduardo Moraes de Oliveira | [@aindasemarroba](https://github.com/aindasemarroba) |
 
 ---
 
