@@ -31,6 +31,7 @@ Vitória: Reunir as peças, montar o computador e executar o software.
 Derrota: Os pontos de vida do personagem chegarem a zero.
 
 👥 Equipe de Desenvolvimento
+
 Rodolfo Zion Ruthes Brito
 
 Pedro Ricardo Ferreira Moreira
