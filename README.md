@@ -62,8 +62,8 @@ Certifique-se de ter o Python instalado na sua máquina.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/rodolfozion1719/protocolo-zero.git
-   cd protocolo-zero
+   git clone https://github.com/rodolfozion1719/ProtocoloZeroPOO.git
+   cd ProtocoloZeroPOO
    ```
 
 2. **Crie e ative um ambiente virtual (recomendado):**
